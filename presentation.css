@@ -48,6 +48,7 @@ body {
 .logos img {
    width: 100px;
    height: 100px;
+   margin-right: 3px;
 }
 .partenaires-box {
     background-color: #9ee8ff;
@@ -63,7 +64,7 @@ body {
     height: 25px;
     margin-top: 30px;
     margin-left: 80px;
-    margin-right: 5px;
+    margin-right: 70px;
     justify-content: center;
      gap: 80px;
 }
